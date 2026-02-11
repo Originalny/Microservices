@@ -139,9 +139,7 @@ curl http://localhost:5000/users
 curl http://localhost:5000/products/1
 
 # Создать заказ
-curl -X POST http://localhost:5000/orders \
-  -H "Content-Type: application/json" \
-  -d '{"userId":1,"productId":2,"quantity":2}'
+Invoke-RestMethod -Uri http://localhost:5000/orders -Method Post -ContentType "application/json" -Body '{"userId":1,"productId":2,"quantity":2}'
 
 # Получить детали заказа (с данными пользователя и товара)
 curl http://localhost:5000/orders/1
@@ -192,3 +190,12 @@ cd Microservices/OrdersService && dotnet run
 ```bash
 curl http://localhost:5000/
 ```
+
+### Скриншоты работы
+<img width="1757" height="950" alt="image" src="https://github.com/user-attachments/assets/d0a7f608-3f17-4177-98f7-f957bccc39cf" />
+<img width="825" height="327" alt="image" src="https://github.com/user-attachments/assets/c4953827-cfcd-436f-ad6b-f42c32949c42" />
+<img width="822" height="334" alt="image" src="https://github.com/user-attachments/assets/da59c0fa-5380-4c4d-9d89-63ef5ed93b61" />
+<img width="826" height="298" alt="image" src="https://github.com/user-attachments/assets/8a1902f1-fba5-41e1-9963-8fa44d2f3fac" />
+<img width="846" height="147" alt="image" src="https://github.com/user-attachments/assets/96575238-1462-447c-a54e-772a3e814357" />
+<img width="840" height="342" alt="image" src="https://github.com/user-attachments/assets/963e5ef3-c661-42ba-a17f-7c9ad6ef4ca9" />
+
