@@ -197,9 +197,15 @@ curl http://localhost:5000/
 <img width="1757" height="950" alt="image" src="https://github.com/user-attachments/assets/d0a7f608-3f17-4177-98f7-f957bccc39cf" />
 <img width="825" height="327" alt="image" src="https://github.com/user-attachments/assets/c4953827-cfcd-436f-ad6b-f42c32949c42" />
 
-
+## Получение списка пользователей
 <img width="822" height="334" alt="image" src="https://github.com/user-attachments/assets/da59c0fa-5380-4c4d-9d89-63ef5ed93b61" />
+
+## Получение товара
 <img width="826" height="298" alt="image" src="https://github.com/user-attachments/assets/8a1902f1-fba5-41e1-9963-8fa44d2f3fac" />
+
+## Создание заказа
 <img width="846" height="147" alt="image" src="https://github.com/user-attachments/assets/96575238-1462-447c-a54e-772a3e814357" />
+
+## Получение
 <img width="840" height="342" alt="image" src="https://github.com/user-attachments/assets/963e5ef3-c661-42ba-a17f-7c9ad6ef4ca9" />
 
