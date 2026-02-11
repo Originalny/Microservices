@@ -1,0 +1,57 @@
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/bin/Debug/net10.0/appsettings.Development.json
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/bin/Debug/net10.0/appsettings.json
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/bin/Debug/net10.0/ApiGateway.staticwebassets.endpoints.json
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/bin/Debug/net10.0/ApiGateway
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/bin/Debug/net10.0/ApiGateway.deps.json
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/bin/Debug/net10.0/ApiGateway.runtimeconfig.json
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/bin/Debug/net10.0/ApiGateway.dll
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/bin/Debug/net10.0/ApiGateway.pdb
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/ApiGateway.AssemblyInfoInputs.cache
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/ApiGateway.AssemblyInfo.cs
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/ApiGateway.csproj.CoreCompileInputs.cache
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/scopedcss/bundle/ApiGateway.styles.css
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/staticwebassets.build.json
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/staticwebassets.development.json
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/swae.build.ex.cache
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/ApiGateway.dll
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/refint/ApiGateway.dll
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/ApiGateway.pdb
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/ApiGateway.genruntimeconfig.cache
+/home/debian/Рабочий стол/csharp/Microservices/ApiGateway/obj/Debug/net10.0/ref/ApiGateway.dll
+C:\Users\Soma\Desktop\Microservices\ApiGateway\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Soma\Desktop\Microservices\ApiGateway\bin\Debug\net10.0\appsettings.json
+C:\Users\Soma\Desktop\Microservices\ApiGateway\bin\Debug\net10.0\ApiGateway.staticwebassets.endpoints.json
+C:\Users\Soma\Desktop\Microservices\ApiGateway\bin\Debug\net10.0\ApiGateway.exe
+C:\Users\Soma\Desktop\Microservices\ApiGateway\bin\Debug\net10.0\ApiGateway.deps.json
+C:\Users\Soma\Desktop\Microservices\ApiGateway\bin\Debug\net10.0\ApiGateway.runtimeconfig.json
+C:\Users\Soma\Desktop\Microservices\ApiGateway\bin\Debug\net10.0\ApiGateway.dll
+C:\Users\Soma\Desktop\Microservices\ApiGateway\bin\Debug\net10.0\ApiGateway.pdb
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\ApiGateway.AssemblyInfo.cs
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\ApiGateway.dll
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\refint\ApiGateway.dll
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\ApiGateway.pdb
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\ApiGateway.genruntimeconfig.cache
+C:\Users\Soma\Desktop\Microservices\ApiGateway\obj\Debug\net10.0\ref\ApiGateway.dll
