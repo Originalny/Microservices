@@ -206,6 +206,6 @@ curl http://localhost:5000/
 ### Создание заказа
 <img width="846" height="147" alt="image" src="https://github.com/user-attachments/assets/96575238-1462-447c-a54e-772a3e814357" />
 
-### Получение
+### Получение заказа
 <img width="840" height="342" alt="image" src="https://github.com/user-attachments/assets/963e5ef3-c661-42ba-a17f-7c9ad6ef4ca9" />
 
